@@ -1,2 +1,2 @@
-# ops
-NYC Mesh Ops website
+# NYC MeshConnect
+NYC MeshConnect
