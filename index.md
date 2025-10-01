@@ -36,5 +36,5 @@ We work with management companies to do the technical support for the tenants of
 ## 📞 Let’s Keep You Online
 
 Ready to experience stress-free internet?  
-**[Contact NYC Mesh Connect Today →](#)**  (212) 477-0866
+**[Contact NYC Mesh Ops Today →](#)**  (212) 477-0866
 We’ll get you connected — and keep you connected.
