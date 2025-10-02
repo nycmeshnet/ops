@@ -1,5 +1,5 @@
 ---
-title: "Ops"
+title: "ops"
 description: "Connecting NYC "
 images: [""]
 ---
